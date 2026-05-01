@@ -2,8 +2,8 @@
   "_comment": "DS2API 配置文件示例 - 复制为 config.json 使用",
   "_doc": "详细文档: https://github.com/CJackHwang/ds2api",
   "keys": [
-    "your-api-key-1",
-    "your-api-key-2"
+    "hc-1",
+    "hc-2"
   ],
   "api_keys": [
     {
@@ -22,8 +22,8 @@
       "_comment": "邮箱登录方式",
       "name": "主账号",
       "remark": "优先用于生产流量",
-      "email": "example1@example.com",
-      "password": "your-password-1"
+      "email": "guaunio@proton.me",
+      "password": "1234qwerSD./"
     },
     {
       "_comment": "邮箱登录方式 - 账号2",
